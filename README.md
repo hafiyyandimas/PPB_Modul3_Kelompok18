@@ -1,6 +1,12 @@
-<<<<<<< HEAD
 # PPB_Modul3_Kelompok18
-=======
+1. Hafiyyan Dimas Walana
+21120124140130
+2. Rafi Muhammad Arsyad
+21120124130064
+3. Muhammad Dzakwan Fakhriy Habibie
+21120120140134
+4. Geihansyah Lisdianov Marjanto
+21120122140152
 # mod3_kel18
 
 A new Flutter project.
